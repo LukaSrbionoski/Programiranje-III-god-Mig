@@ -1,4 +1,6 @@
 #ignore all .txt files
 #*.txt
+*.idea
+
 
 # https://github.com/github/gitignore
